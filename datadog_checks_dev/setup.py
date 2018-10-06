@@ -75,6 +75,7 @@ setup(
             'in-toto>=0.2.3.dev5',
             'pip-tools',
             'pyperclip>=1.6.4',
+            'PyYAML>=3.13',
             'requests<2.19.0',
             'semver',
             'setuptools>=38.6.0',
